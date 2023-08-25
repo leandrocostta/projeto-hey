@@ -13,8 +13,7 @@ body {
 header {
     display: block;
     position: relative;
-    margin: auto;
-    
+    text-align: center;
     
 }
 h1 {
