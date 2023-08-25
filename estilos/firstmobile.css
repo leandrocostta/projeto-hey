@@ -41,6 +41,7 @@ header > img {
     margin: auto;
     width: 200px;
     padding: 10px;
+    
 }
 menu > ul > li {
     display: block;
@@ -72,6 +73,7 @@ li:hover {
     background-color: #490d67ae;
     color:lightgray ;
     transition: .7s;
+    border: 2px solid white;
 }
 main {
     background-color: white;
