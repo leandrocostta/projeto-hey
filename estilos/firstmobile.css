@@ -2,10 +2,10 @@
 
 * {
     margin: 0px;
-    padding: 0px;
+    padding: 5px;
 }
 html, body {
-    width: 450px;
+    width: 90vw;
     height: 100vh;
 }
 body {
@@ -14,7 +14,7 @@ body {
 header {
     display: block;
     position: relative;
-    margin-left: 10px;
+    text-align: center;
     
 }
 h1 {
